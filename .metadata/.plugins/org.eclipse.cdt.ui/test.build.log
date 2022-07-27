@@ -1,0 +1,30 @@
+22:56:21 **** Incremental Build of configuration Debug for project test ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test.o" "..\\src\\test.c" 
+..\src\test.c: In function 'inquireDayEvents':
+..\src\test.c:22:2: warning: implicit declaration of function 'strcpy' [-Wimplicit-function-declaration]
+   22 |  strcpy(txtFile,MONTH[monthIndex - 1]);
+      |  ^~~~~~
+..\src\test.c:22:2: warning: incompatible implicit declaration of built-in function 'strcpy'
+..\src\test.c:3:1: note: include '<string.h>' or provide a declaration of 'strcpy'
+    2 | #include<stdlib.h>
+  +++ |+#include <string.h>
+    3 | 
+..\src\test.c:23:2: warning: implicit declaration of function 'strcat' [-Wimplicit-function-declaration]
+   23 |  strcat(txtFile, ".txt");
+      |  ^~~~~~
+..\src\test.c:23:2: warning: incompatible implicit declaration of built-in function 'strcat'
+..\src\test.c:23:2: note: include '<string.h>' or provide a declaration of 'strcat'
+..\src\test.c:49:14: warning: implicit declaration of function 'strlen' [-Wimplicit-function-declaration]
+   49 |    int len = strlen(buf);
+      |              ^~~~~~
+..\src\test.c:49:14: warning: incompatible implicit declaration of built-in function 'strlen'
+..\src\test.c:49:14: note: include '<string.h>' or provide a declaration of 'strlen'
+..\src\test.c: At top level:
+..\src\test.c:63:6: warning: return type of 'main' is not 'int' [-Wmain]
+   63 | void main()
+      |      ^~~~
+gcc -o test.exe "src\\test.o" 
+
+22:56:21 Build Finished. 0 errors, 7 warnings. (took 503ms)
+

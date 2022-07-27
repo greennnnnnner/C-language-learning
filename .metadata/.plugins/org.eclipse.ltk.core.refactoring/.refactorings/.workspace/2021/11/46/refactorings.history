@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;W10T19P930031026/src/W10T19P930031026.c&apos;" deleteContents="false" description="Delete resource &apos;W10T19P930031026/src/W10T19P930031026.c&apos;" element1="/W10T19P930031026/src/W10T19P930031026.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1636524589370"/>&#x0A;<refactoring comment="Rename resource &apos;W10T19P930031026&apos; to &apos;W10T18P930031026&apos;" description="Rename resource &apos;W10T19P930031026&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/W10T19P930031026" name="W10T18P930031026" stamp="1636524629798" updateReferences="true"/>
+</session>

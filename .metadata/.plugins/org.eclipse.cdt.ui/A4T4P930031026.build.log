@@ -1,0 +1,7 @@
+11:51:49 **** Incremental Build of configuration Debug for project A4T4P930031026 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\A4T4P930031026.o" "..\\src\\A4T4P930031026.c" 
+gcc -o A4T4P930031026.exe "src\\A4T4P930031026.o" 
+
+11:51:50 Build Finished. 0 errors, 0 warnings. (took 482ms)
+

@@ -1,0 +1,11 @@
+21:44:39 **** Rebuild of configuration Debug for project W7T17P930031026 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\W7T17P930031026.o" "..\\src\\W7T17P930031026.c" 
+..\src\W7T17P930031026.c: In function 'main':
+..\src\W7T17P930031026.c:25:9: warning: implicit declaration of function 'strcmp' [-Wimplicit-function-declaration]
+   25 |  }while(strcmp(str[i],end)!=0);
+      |         ^~~~~~
+gcc -o W7T17P930031026.exe "src\\W7T17P930031026.o" 
+
+21:44:40 Build Finished. 0 errors, 1 warnings. (took 942ms)
+

@@ -1,0 +1,7 @@
+21:57:15 **** Rebuild of configuration Debug for project ExtraLab_Q6_p930030126 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ExtraLab_Q6_p930030126.o" "..\\src\\ExtraLab_Q6_p930030126.c" 
+gcc -o ExtraLab_Q6_p930030126.exe "src\\ExtraLab_Q6_p930030126.o" 
+
+21:57:15 Build Finished. 0 errors, 0 warnings. (took 573ms)
+

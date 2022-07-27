@@ -1,0 +1,7 @@
+21:44:32 **** Rebuild of configuration Debug for project W4T7P930031026 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\W4T7P930031026.o" "..\\src\\W4T7P930031026.c" 
+gcc -o W4T7P930031026.exe "src\\W4T7P930031026.o" 
+
+21:44:33 Build Finished. 0 errors, 0 warnings. (took 1s.1ms)
+

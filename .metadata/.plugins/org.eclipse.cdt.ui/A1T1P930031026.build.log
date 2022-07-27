@@ -1,0 +1,7 @@
+21:56:39 **** Rebuild of configuration Debug for project A1T1P930031026 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\A1T1P930031026.o" "..\\src\\A1T1P930031026.c" 
+gcc -o A1T1P930031026.exe "src\\A1T1P930031026.o" 
+
+21:56:43 Build Finished. 0 errors, 0 warnings. (took 4s.809ms)
+

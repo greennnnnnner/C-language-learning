@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;W10T19P930031026/src/W8T18P930031026.c&apos; to &apos;W10T18P930031026.c&apos;" description="Rename resource &apos;W8T18P930031026.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/W8T18P930031026.c" name="W10T18P930031026.c" stamp="1636524610654" updateReferences="true"/>
+</session>

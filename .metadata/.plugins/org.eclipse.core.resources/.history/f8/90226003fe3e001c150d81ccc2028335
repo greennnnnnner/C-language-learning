@@ -1,0 +1,44 @@
+/*
+ ============================================================================
+ Name        : A2T6P930031026.c
+ Author      : DUAN Weitian
+ Version     : 1.0
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+void decending(int data[], int total);
+int main() {
+	int total;
+	int array[100];
+	setbuf(stdout, NULL);
+	printf("Please input the total number of integers: ");
+	scanf("%d", &total);//get input
+	printf("Please input the integers to sort: ");
+	scanf("%d", array);
+	decending(array, total);
+	for(int j=0;j<=(size-2);j++){
+		printf("%d ", A[j]);//print them in ascending order
+		}
+	return 0;
+}
+
+void decending(int data[], int total){ //function to sort array in ascending order
+	int temp;//for swap
+	int min;//index of minimal value
+	for (int right=total-1; right>=0; right--){
+		min = 0; //points the largest element
+		for (int current=1; current<=right; current++){
+		 	if (data[current] < data[min])
+		 		min = current;//move the largest to ethe last
+			if (data[min] < data[right]){
+				temp = data[min];   // swap
+				data[min] = data[right];
+				data[right] = temp;
+				}
+			}
+		}
+}

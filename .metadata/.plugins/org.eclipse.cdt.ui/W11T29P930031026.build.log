@@ -1,0 +1,11 @@
+22:04:26 **** Incremental Build of configuration Debug for project W11T29P930031026 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\W11T29P930031026.o" "..\\src\\W11T29P930031026.c" 
+..\src\W11T29P930031026.c: In function 'stringCombine':
+..\src\W11T29P930031026.c:34:1: warning: control reaches end of non-void function [-Wreturn-type]
+   34 | }
+      | ^
+gcc -o W11T29P930031026.exe "src\\W11T29P930031026.o" 
+
+22:04:26 Build Finished. 0 errors, 1 warnings. (took 606ms)
+

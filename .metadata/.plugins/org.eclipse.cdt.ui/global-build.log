@@ -1,0 +1,41 @@
+00:32:50 **** Incremental Build of configuration Debug for project A4T6P930031026 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\A4T6P930031026.o" "..\\src\\A4T6P930031026.c" 
+gcc -o A4T6P930031026.exe "src\\A4T6P930031026.o" 
+Info: Nothing to build for A4T6P930031026
+00:33:21 **** Incremental Build of configuration Debug for project A4T6P930031026 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\A4T6P930031026.o" "..\\src\\A4T6P930031026.c" 
+gcc -o A4T6P930031026.exe "src\\A4T6P930031026.o" 
+Info: Nothing to build for A4T6P930031026
+00:34:21 **** Incremental Build of configuration Debug for project A4T6P930031026 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\A4T6P930031026.o" "..\\src\\A4T6P930031026.c" 
+gcc -o A4T6P930031026.exe "src\\A4T6P930031026.o" 
+00:34:57 **** Incremental Build of configuration Debug for project A4T6P930031026 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\A4T6P930031026.o" "..\\src\\A4T6P930031026.c" 
+gcc -o A4T6P930031026.exe "src\\A4T6P930031026.o" 
+00:35:15 **** Incremental Build of configuration Debug for project A4T6P930031026 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\A4T6P930031026.o" "..\\src\\A4T6P930031026.c" 
+gcc -o A4T6P930031026.exe "src\\A4T6P930031026.o" 
+00:48:06 **** Incremental Build of configuration Debug for project A4T6P930031026 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\A4T6P930031026.o" "..\\src\\A4T6P930031026.c" 
+gcc -o A4T6P930031026.exe "src\\A4T6P930031026.o" 
+00:50:45 **** Incremental Build of configuration Debug for project A4T6P930031026 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\A4T6P930031026.o" "..\\src\\A4T6P930031026.c" 
+gcc -o A4T6P930031026.exe "src\\A4T6P930031026.o" 
+Info: Nothing to build for A4T6P930031026
+00:52:20 **** Incremental Build of configuration Debug for project A4T6P930031026 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\A4T6P930031026.o" "..\\src\\A4T6P930031026.c" 
+gcc -o A4T6P930031026.exe "src\\A4T6P930031026.o" 
+00:52:54 **** Incremental Build of configuration Debug for project A4T6P930031026 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\A4T6P930031026.o" "..\\src\\A4T6P930031026.c" 
+gcc -o A4T6P930031026.exe "src\\A4T6P930031026.o" 
+Info: Nothing to build for A4T6P930031026
+Info: Nothing to build for A4T6P930031026
